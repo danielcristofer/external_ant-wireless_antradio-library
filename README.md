@@ -1,2 +1,2 @@
-# external_ant-wireless_antradio-library
-ANT Radio Service
+# ANT Radio Service
+Enable apps to use ANT ultra-low-power wireless technology on supported devices.
